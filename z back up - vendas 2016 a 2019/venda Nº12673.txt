@@ -1,0 +1,27 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+27/11/2019
+
+Tereza Beatriz F. Medeiros 
+
+Produto              Valor Unit.
+Contencao reta 3x3        23,00               
+Contencao reta 3x3        23,00               
+Contencao reta 3x3        23,00               
+Contencao reta 3x3        23,00               
+Contencao reta 3x3        23,00               
+
+Paciente: 
+1113 - Maria
+1115 - Leticia Gabriela
+1116 - Melissa Branco
+1117 - Bianca Souza
+1118 - Julia Costa
+
+Total: 115,00
+
+
+
+

@@ -1,0 +1,24 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+11/12/2024
+
+Erica Mazzali
+
+Produto              Valor Unit.
+Contencao Continua        155,00              
+Contencao Simples         145,00              
+Placa Clareamento         46,00               
+Placa Clareamento         46,00               
+
+Paciente: 
+001 - RAFAEL
+002 - CHEILA
+009 - CLEITON
+
+Total: 392,00
+
+
+
+

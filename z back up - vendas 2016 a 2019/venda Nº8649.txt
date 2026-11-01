@@ -1,0 +1,28 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+28/11/2018
+
+Tereza Beatriz F. Medeiros 
+
+Produto              Valor Unit.
+Placa de Levante de mord. 90,00               
+Contencao Higienica       20,00               
+Contencao reta 3x3        18,00               
+Contencao reta 3x3        18,00               
+Contencao reta 3x3        18,00               
+Contencao reta 3x3        18,00               
+Paciente:
+374 - Vinicius
+893 - Beatriz
+889 - Larissa
+890 - Henrique
+891 - Iara
+892 - Luciana
+
+Total: 182,00
+
+
+
+

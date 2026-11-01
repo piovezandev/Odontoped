@@ -1,0 +1,30 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+30/01/2017
+
+Dra. Jaciara Teixeira Guimaraes
+
+Produto              Valor Unit.
+Contencao continua        72,00               
+Contencao continua        72,00               
+Contencao continua        72,00               
+Contencao continua        72,00               
+Contencao continua        72,00               
+Contencao reta 3x3        10,00               
+Contencao reta 3x3        10,00               
+Contencao reta 3x3        10,00               
+Contencao reta 3x3        10,00               
+Paciente:
+Ildane 86
+Everton 7157
+Bruno 9781
+Liliane 85
+Ludmila 87
+
+Total: 400,00
+
+
+
+

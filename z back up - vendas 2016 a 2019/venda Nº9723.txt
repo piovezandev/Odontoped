@@ -1,0 +1,22 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+11/04/2019
+
+Tatiana Martins
+
+Produto              Valor Unit.
+Conserto Cortesia         ,00                 
+Conserto A                30,00               
+Conserto A                30,00               
+Paciente:
+2258 - Gabriel
+2386 - Davi 
+2259 - Miguel
+
+Total: 60,00
+
+
+
+

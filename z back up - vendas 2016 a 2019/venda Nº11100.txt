@@ -1,0 +1,25 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+20/08/2019
+
+Debora Trippe
+
+Produto              Valor Unit.
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Paciente:
+487 - Viviane
+477 - Neyla
+476 - Jessica
+
+Total: 339,00
+
+
+
+

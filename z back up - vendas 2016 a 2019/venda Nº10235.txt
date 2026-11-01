@@ -1,0 +1,27 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+30/05/2019
+
+Hercules T de Moraes
+
+Produto              Valor Unit.
+Contencao HTM             88,00               
+Contencao HTM             88,00               
+Contencao HTM             88,00               
+Contencao HTM             88,00               
+Grade                     21,00               
+Conserto A                30,00               
+Paciente:
+804 - Alexandre 3758
+805 - Bianca 3725
+808 - Lucas 3799
+807 - Laura 3210
+809 - Emily 3525
+
+Total: 403,00
+
+
+
+

@@ -1,0 +1,25 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+17/01/2025
+
+Wania Cristina Giorgiani
+
+Produto              Valor Unit.
+Contencao Simples         145,00              
+Contencao 3x3 Inferior    65,00               
+Contencao Simples         145,00              
+Contencao 3x3 Inferior    65,00               
+Contencao 3x3 Superior    80,00               
+
+Paciente: 
+498 - TANIA
+499 - LUCIANO
+500 - ANDREIA
+
+Total: 500,00
+
+
+
+

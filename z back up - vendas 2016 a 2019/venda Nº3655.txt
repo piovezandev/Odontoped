@@ -1,0 +1,20 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+22/11/2016
+
+Dra. Monica Cecchi de Oliveira 
+
+Produto              Valor Unit.
+Conserto                  15,00               
+Conserto sem custo        ,00                 
+Paciente:
+Caio 419
+Gustavo 418
+
+Total: 15,00
+
+
+
+

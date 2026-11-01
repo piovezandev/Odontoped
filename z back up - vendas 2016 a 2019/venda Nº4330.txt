@@ -1,0 +1,27 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+21/03/2017
+
+Dra. Tereza Beatriz F. Medeiros 
+
+Produto              Valor Unit.
+Contencao Continua Super. 85,00               
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Contencao reta 3x3        18,00               
+Contencao reta 3x3        18,00               
+Contencao Continua Super. 85,00               
+Paciente:
+Pamela 1082
+Ricardo 1083
+Luiz 1081
+1000
+1001
+
+Total: 246,00
+
+
+
+

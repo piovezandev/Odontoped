@@ -1,0 +1,29 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+10/06/2019
+
+Tatilla Quirino
+
+Produto              Valor Unit.
+Montagem PPR              60,00               
+Placa dente Biolux        20,00               
+Placa dente Biolux        20,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Paciente:
+1607 - Lorivalda
+1614 - Bruna
+1611 - Laisa
+1612 - Nicole
+
+Total: 439,00
+
+
+
+

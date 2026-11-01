@@ -1,0 +1,24 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+29/11/2016
+
+Dr. Luiz Eduardo Zaccharias
+
+Produto              Valor Unit.
+Contencao continua        72,00               
+Contencao continua        72,00               
+Contencao higienica       12,00               
+Contencao continua        72,00               
+Contencao higienica       12,00               
+Paciente:
+Andressa 5270
+Camila 183
+Breno 184
+
+Total: 240,00
+
+
+
+

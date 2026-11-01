@@ -1,0 +1,29 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+12/03/2019
+
+Liliane E. Pellegrine
+
+Produto              Valor Unit.
+Contencao Higienica       25,00               
+Contencao Higienica       25,00               
+Expansor Encapsulado      116,00              
+Planas                    199,00              
+Planas                    199,00              
+Bionator                  177,00              
+Reforco de fio            11,00               
+Paciente:
+2121 - Enrico
+2115 - Luiza
+2109 - Rafael
+2107 - Valentina
+2119 - Livia
+2117 - Matheus
+
+Total: 752,00
+
+
+
+

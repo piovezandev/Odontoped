@@ -1,0 +1,30 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+18/10/2018
+
+Claudia Nogueira
+
+Produto              Valor Unit.
+Arco AEB                  16,00               
+Contencao Continua Super. 85,00               
+Contencao Higienica       20,00               
+Contencao Continua Super. 85,00               
+Contencao Higienica       20,00               
+Aparelho Cortesia         ,00                 
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Paciente:
+249 - Joao
+245 - Leiva
+248 - Raquel
+250 - Camila
+247 - Vitoria
+246 - Isabelli
+
+Total: 266,00
+
+
+
+

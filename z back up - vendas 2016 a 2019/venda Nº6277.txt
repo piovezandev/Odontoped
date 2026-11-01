@@ -1,0 +1,32 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+31/01/2018
+
+Dra. Jaciara Teixeira Guimaraes
+
+Produto              Valor Unit.
+Contencao Continua Super. 85,00               
+Contencao reta 3x3        18,00               
+Contencao reta 3x3        18,00               
+Contencao Continua Super. 85,00               
+Contencao Continua Super. 85,00               
+Contencao reta 3x3        18,00               
+Expansor Inferior Bilate. 96,00               
+Contencao Continua Super. 85,00               
+Contencao reta 3x3        18,00               
+Expansor Superior Bilate. 96,00               
+Paciente:
+1091 - Guilherme
+1092 - Mauro
+1093 - Cleidiane
+1094 - Manuela
+92 - Carol
+93 - Dioyce
+
+Total: 604,00
+
+
+
+

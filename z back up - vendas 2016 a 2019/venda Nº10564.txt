@@ -1,0 +1,26 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+02/07/2019
+
+Odontoclinic Jundiai
+
+Produto              Valor Unit.
+Disjuntor de Hyrax        125,00              
+Levante de Mordida Fixa   100,00              
+Grade Palatina            95,00               
+Contencao Higienica       25,00               
+Grade Palatina            95,00               
+Paciente:
+1000 - Sarah
+1001 - Ariane
+409 - Joao P
+408 - Guilherme
+410 - Miguel
+
+Total: 440,00
+
+
+
+

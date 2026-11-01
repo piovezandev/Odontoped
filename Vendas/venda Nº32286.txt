@@ -1,0 +1,25 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+20/02/2025
+
+Mayara Foga
+
+Produto              Valor Unit.
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+Contencao Continua        165,00              
+
+Paciente: 
+401 - Geovan Souza
+402 - Gabriel Ribeiro
+403 - Brenda Barros
+
+Total: 635,00
+
+
+
+

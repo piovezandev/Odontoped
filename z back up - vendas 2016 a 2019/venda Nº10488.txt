@@ -1,0 +1,24 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+25/06/2019
+
+Fabio Santos
+
+Produto              Valor Unit.
+Contencao Continua        88,00               
+Contencao Continua        88,00               
+Contencao reta 3x3        23,00               
+Contencao Continua        88,00               
+Contencao reta 3x3        23,00               
+Paciente:
+532 - Raphael
+370 - Cassio
+531 - Joao
+
+Total: 310,00
+
+
+
+

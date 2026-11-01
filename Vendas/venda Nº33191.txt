@@ -1,0 +1,25 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+03/07/2025
+
+Tatiana Martins
+
+Produto              Valor Unit.
+Contencao Simples         154,00              
+Alca                      23,00               
+Alca                      23,00               
+Alca                      23,00               
+Alca                      23,00               
+Contencao Continua        165,00              
+
+Paciente: 
+298 - Arthur Biagio
+299 - Caio Tosi
+
+Total: 411,00
+
+
+
+

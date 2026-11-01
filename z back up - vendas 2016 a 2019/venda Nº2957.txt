@@ -1,0 +1,22 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+04/08/2016
+
+Dr. Yoski Tamaki
+
+Produto              Valor Unit.
+Contencao simples         70,00               
+Contencao higienica       12,00               
+Contencao simples         70,00               
+Contencao higienica       12,00               
+Paciente:
+Roseli
+Vitor
+
+Total: 164,00
+
+
+
+

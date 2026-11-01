@@ -1,0 +1,30 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+10/03/2025
+
+Seregati Odonto
+
+Produto              Valor Unit.
+Expansor Encapsulado      195,00              
+Planas Composto           380,00              
+Planas                    360,00              
+Equiplan                  34,00               
+Expansor Encapsulado      195,00              
+Planas                    360,00              
+Mola                      23,00               
+Mola                      23,00               
+
+Paciente: 
+455 - Leonardo
+456 - Amanda Luiza
+459 - Benajmin 
+453 - Maya Bezerra
+450 - Alice Nolasco
+
+Total: 1.570,00
+
+
+
+

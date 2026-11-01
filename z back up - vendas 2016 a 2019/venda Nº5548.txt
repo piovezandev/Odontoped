@@ -1,0 +1,33 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+26/09/2017
+
+Dra. Paula Dias Rodrigues 
+
+Produto              Valor Unit.
+Contencao Continua Super. 85,00               
+Contencao Continua Super. 85,00               
+Contencao Continua Super. 85,00               
+Contencao c/ Dente        120,00              
+Contencao Simples         82,00               
+Contencao Simples         82,00               
+Contencao Simples         82,00               
+Contencao Simples         82,00               
+Contencao Simples         82,00               
+Paciente:
+Ricardo 151
+Sandra 153
+Beatriz 155
+Silvio 154
+Pedro 152
+Eduardo 157
+Caio 158
+Cesar 156
+
+Total: 785,00
+
+
+
+

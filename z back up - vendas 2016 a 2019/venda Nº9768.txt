@@ -1,0 +1,28 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+16/04/2019
+
+Jaciara Teixeira Guimaraes
+
+Produto              Valor Unit.
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Placa Miorelaxante Aceta. 114,00              
+Placa Miorelaxante Aceta. 114,00              
+Placa Miorelaxante Aceta. 114,00              
+Paciente:
+1092 - Julia
+1093 - Cristian
+1090 - Maysa
+1091 - Lucimar
+046 - Leandra
+
+Total: 568,00
+
+
+
+

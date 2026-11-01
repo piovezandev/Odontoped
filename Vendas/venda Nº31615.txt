@@ -1,0 +1,35 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+31/10/2024
+
+Jaciara Teixeira Guimaraes
+
+Produto              Valor Unit.
+Contencao Continua        155,00              
+Contencao 3x3 Inferior    65,00               
+Contencao Continua        155,00              
+Contencao 3x3 Inferior    65,00               
+Contencao Continua        155,00              
+Contencao 3x3 Inferior    65,00               
+Contencao Continua        155,00              
+Contencao 3x3 Inferior    65,00               
+Contencao 3x3 Inferior    65,00               
+Contencao 3x3 Inferior    65,00               
+Contencao 3x3 Inferior    65,00               
+
+Paciente: 
+551 - ROSICLEIA 
+552 - EDUARDO
+578 - GEOVANA
+579 - GABRIELA
+589 - HELBIA
+590 - JOSY
+592 - ANA BEATRIZ
+
+Total: 1.075,00
+
+
+
+

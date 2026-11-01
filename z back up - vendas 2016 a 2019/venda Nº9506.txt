@@ -1,0 +1,30 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+25/03/2019
+
+Claudia Nogueira
+
+Produto              Valor Unit.
+Mola                      11,00               
+Mola                      11,00               
+Disjuntor de Haas         114,00              
+Expansor Bilateral        100,00              
+Mola                      11,00               
+Mola                      11,00               
+Placa Miorelaxante Auto . 156,00              
+Expansor Bilateral        100,00              
+Mola                      11,00               
+Mola                      11,00               
+Paciente:
+2214 - Luis Otavio
+2204 - Artur
+2210 - Caroline
+2212 - Ana Cecilia
+
+Total: 536,00
+
+
+
+

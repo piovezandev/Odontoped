@@ -1,0 +1,22 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+03/12/2018
+
+Monica Cecchi de Oliveira 
+
+Produto              Valor Unit.
+Cortesia                  ,01                 
+Cortesia                  ,01                 
+Expansor Encapsulado      111,00              
+Paciente:
+472 - Dani
+471 - Barbara
+473 - Arthur
+
+Total: 111,02
+
+
+
+

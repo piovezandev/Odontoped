@@ -1,0 +1,25 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+20/03/2018
+
+Paula Dias Rodrigues 
+
+Produto              Valor Unit.
+Disjuntor de Haas         110,00              
+Contencao Continua Super. 85,00               
+Contencao c/ Dente        120,00              
+Contencao Continua Super. 85,00               
+Contencao Continua Super. 85,00               
+Paciente:
+Vitoria  484
+Davi 56
+Alessandra 55
+Carlos 57
+
+Total: 485,00
+
+
+
+

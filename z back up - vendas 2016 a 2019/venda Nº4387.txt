@@ -1,0 +1,33 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+27/03/2017
+
+Dr. Alcides Fabiano Tedesco
+
+Produto              Valor Unit.
+Contencao Simples         82,00               
+Contencao Simples         82,00               
+Contencao Continua Super. 85,00               
+Contencao Higienica       20,00               
+Expansor c/ Platô         100,00              
+Expansor Inferior Bilate. 96,00               
+Expansor Superior Bilate. 96,00               
+Contencao Simples         82,00               
+Expansor Superior Bilate. 96,00               
+Mola                      10,00               
+Mola                      10,00               
+Paciente:
+Debora 423
+Maria 6712
+Sofia  424
+Sofia  1603
+Itupeva 1602
+422
+
+Total: 759,00
+
+
+
+

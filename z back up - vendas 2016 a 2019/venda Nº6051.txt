@@ -1,0 +1,24 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+12/12/2017
+
+Dr. Carlos Henrique Pieroni
+
+Produto              Valor Unit.
+Conserto                  20,00               
+Contencao Simples         82,00               
+Contencao Simples         82,00               
+Contencao reta 3x3        18,00               
+Contencao reta 3x3        18,00               
+Paciente:
+Lucas 1033
+Julia 1032
+Pedro 1203
+
+Total: 220,00
+
+
+
+

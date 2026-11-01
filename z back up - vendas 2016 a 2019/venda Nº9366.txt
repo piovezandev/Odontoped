@@ -1,0 +1,35 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+28/02/2019
+
+Alcides Fabiano Tedesco
+
+Produto              Valor Unit.
+Expansor Encapsulado      111,00              
+Mola                      10,00               
+Expansor Superior Bilate. 96,00               
+Expansor Superior Bilate. 96,00               
+Contencao Continua        85,00               
+Expansor Bilateral        96,00               
+Expansor Bilateral        96,00               
+Expansor Bilateral        96,00               
+Expansor Bilateral        96,00               
+Expansor Bilateral        96,00               
+Paciente:
+043 - Daniele
+039 - Anelise
+042 - Dani
+038 - Cintia
+037 - Kainan
+040 - Tatiana
+048 - Itupeva
+041 - Jose
+044 - Rosemary
+
+Total: 878,00
+
+
+
+

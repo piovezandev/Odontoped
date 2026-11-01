@@ -1,0 +1,29 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+23/11/2018
+
+Jaciara Teixeira Guimaraes
+
+Produto              Valor Unit.
+Expansor Encapsulado      111,00              
+Mola                      10,00               
+Contencao Simples         82,00               
+Contencao Continua Super. 85,00               
+Contencao reta 3x3        18,00               
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Paciente:
+Livia 43
+Julia 45
+Jessica 46
+Raissa 905
+Viviane 907
+
+Total: 366,00
+
+
+
+

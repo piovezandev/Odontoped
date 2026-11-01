@@ -1,0 +1,28 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+29/11/2019
+
+Jonas Botreel de Figueiredo
+
+Produto              Valor Unit.
+Montagem PPR              60,00               
+Placa dente Biolux        20,00               
+Placa dente Biolux        20,00               
+Montagem PPR              60,00               
+Montagem PPR              60,00               
+Placa dente Biolux        20,00               
+Placa dente Biolux        20,00               
+Placa dente Biolux        20,00               
+Placa dente Biolux        20,00               
+
+Paciente: 
+1111 - Gilberto
+1110 - Noelia
+
+Total: 300,00
+
+
+
+

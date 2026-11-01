@@ -1,0 +1,31 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+27/11/2019
+
+Tatiana Abreu
+
+Produto              Valor Unit.
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Higienica       25,00               
+Contencao Higienica       25,00               
+
+Paciente: 
+2273 - Sophia
+1036 - Beatriz
+1035 - Amanda Maia
+2271 - Manuela
+2272 - Gabriel de Assis
+2275 - Gabriel
+2274 - Laura
+
+Total: 364,00
+
+
+
+

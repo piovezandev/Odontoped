@@ -1,0 +1,28 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+15/01/2026
+
+Laura Paschoalini Guyot
+
+Produto              Valor Unit.
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+Contencao Estetica Crist. 127,00              
+Contencao 3x3 Superior    85,00               
+Contencao 3x3 Inferior    70,00               
+
+Paciente: 
+95 - Gabriel Ramos
+97 - Leonardo Ramos
+98 - Felipe Cavalcante
+100 - Luiza
+
+Total: 752,00
+
+
+
+

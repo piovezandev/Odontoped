@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.21.2.final using JasperReports Library version 6.21.2-8434a0bd7c3bbc37cbf916f2968d35e4b165821a  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Relatorio Mensal Cliente" language="groovy" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="a466f197-4dfb-402d-9cc0-bcbca91495aa">
+	<property name="ireport.zoom" value="1.5"/>
+	<property name="ireport.x" value="256"/>
+	<property name="ireport.y" value="112"/>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+	<parameter name="ano" class="java.lang.Integer">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<parameter name="mes" class="java.lang.Integer">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<parameter name="cliente" class="java.lang.String">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<parameter name="credito" class="java.lang.Double">
+		<parameterDescription><![CDATA[]]></parameterDescription>
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[select venda.id_venda,venda.nome_cli,itens_venda_produto.produto ,itens_venda_produto.paciente,venda.data_venda ,produto.preco_produto
+from  venda inner join itens_venda_produto on venda.id_venda = itens_venda_produto.id_venda inner join produto on
+produto.codigo = itens_venda_produto.id_produto
+ where venda.nome_cli like $P{cliente} and  month(STR_TO_DATE( data_venda, '%d/%m/%Y')) = $P{mes} and year(STR_TO_DATE( data_venda, '%d/%m/%Y')) = $P{ano}
+and venda.status_venda <> "aberta" order by venda.data_venda]]>
+	</queryString>
+	<field name="id_venda" class="java.lang.Integer">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="nome_cli" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="produto" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="paciente" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="data_venda" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="preco_produto" class="java.lang.Double">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<variable name="total" class="java.lang.Double" calculation="Sum">
+		<variableExpression><![CDATA[$F{preco_produto}]]></variableExpression>
+	</variable>
+	<background>
+		<band/>
+	</background>
+	<title>
+		<band height="72">
+			<frame>
+				<reportElement mode="Opaque" x="-20" y="-20" width="595" height="92" backcolor="#FFFFFF" uuid="58a68360-8eef-46b8-b87e-ed0e403b573e"/>
+				<staticText>
+					<reportElement x="20" y="20" width="330" height="43" forecolor="#000000" uuid="5f482e5a-654a-4d73-af54-9d87ce614da7"/>
+					<textElement>
+						<font size="30" isBold="false"/>
+					</textElement>
+					<text><![CDATA[Laboratório OrtoQueen]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="20" y="63" width="330" height="17" forecolor="#000000" uuid="9a57302c-63a8-4729-8f29-edd5b2a59ffa"/>
+					<textElement>
+						<font isBold="false"/>
+					</textElement>
+					<text><![CDATA[Relatorio conferencia]]></text>
+				</staticText>
+			</frame>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="31">
+			<textField textAdjust="StretchHeight">
+				<reportElement x="0" y="0" width="92" height="20" uuid="55205060-9f5d-4ead-a2be-5b45e4599aec"/>
+				<textElement>
+					<font size="14"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{nome_cli}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="21">
+			<line>
+				<reportElement x="-20" y="20" width="595" height="1" forecolor="#666666" uuid="f53ee53d-86af-47ec-8225-4b6cb3b7b1ba"/>
+			</line>
+			<staticText>
+				<reportElement mode="Opaque" x="80" y="0" width="230" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="8cefc96c-4b95-4d19-a68b-2b67a118e516"/>
+				<textElement textAlignment="Center">
+					<font size="14" isBold="false"/>
+				</textElement>
+				<text><![CDATA[  Produto                           ]]></text>
+			</staticText>
+			<staticText>
+				<reportElement mode="Opaque" x="310" y="0" width="150" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="7284ce24-7674-4ab4-9e7b-13dc0697519a"/>
+				<textElement textAlignment="Center">
+					<font size="14" isBold="false"/>
+				</textElement>
+				<text><![CDATA[Paciente       ]]></text>
+			</staticText>
+			<staticText>
+				<reportElement mode="Opaque" x="-20" y="0" width="100" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="ea096d7e-7afc-4c1d-bd07-25055e5adc3d"/>
+				<textElement textAlignment="Center">
+					<font size="14" isBold="false"/>
+				</textElement>
+				<text><![CDATA[  Data]]></text>
+			</staticText>
+			<staticText>
+				<reportElement mode="Opaque" x="460" y="0" width="115" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="943cdff8-5420-4116-9f21-687b702aaa0d"/>
+				<textElement textAlignment="Center">
+					<font size="14" isBold="false"/>
+				</textElement>
+				<text><![CDATA[  Valor Unitario]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="22">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="19" width="555" height="1" uuid="f32c10ae-8cef-433d-a3d6-5cc4946c3e9b"/>
+			</line>
+			<textField pattern="#,##0.00">
+				<reportElement x="497" y="0" width="58" height="20" uuid="8acad6ea-afb1-44a0-b1c7-3bd82e47146e"/>
+				<textElement textAlignment="Center">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{preco_produto}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="-1" width="92" height="21" uuid="2145b959-1d65-4e72-85af-bbe049ac60a9"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{data_venda}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="120" y="0" width="190" height="20" uuid="5184f9ac-c870-4c96-bc08-931e2a7c21a2"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{produto}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="350" y="0" width="100" height="20" uuid="eb85d810-a09d-49c5-96d1-3d6e358ed345"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{paciente}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54">
+			<textField>
+				<reportElement mode="Opaque" x="0" y="41" width="515" height="13" backcolor="#E6E6E6" uuid="3b815868-5383-4907-8a27-074aa37be250"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA["Page "+$V{PAGE_NUMBER}+" of"]]></textFieldExpression>
+			</textField>
+			<textField evaluationTime="Report">
+				<reportElement mode="Opaque" x="515" y="41" width="40" height="13" backcolor="#E6E6E6" uuid="f10c0c7a-8215-4664-8f9a-02dea7c7e037"/>
+				<textFieldExpression><![CDATA[" " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+			<textField pattern="EEEEE dd MMMMM yyyy">
+				<reportElement x="0" y="41" width="100" height="13" uuid="aea78297-5ffc-47b8-82f0-ab9cb9c10f58"/>
+				<textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<lastPageFooter>
+		<band height="61">
+			<staticText>
+				<reportElement x="0" y="40" width="80" height="20" uuid="b0b53d56-ab07-4165-8503-47f285050f0a"/>
+				<textElement>
+					<font size="9"/>
+				</textElement>
+				<text><![CDATA[Total:]]></text>
+			</staticText>
+			<textField pattern="#,##0.00">
+				<reportElement x="485" y="40" width="70" height="20" uuid="d9662cf1-58f2-4ad1-8e51-0e81792f53b3"/>
+				<textElement textAlignment="Center">
+					<font size="9"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{credito} == null ? $V{total}- new Double(0.0) : $V{total}-$P{credito}]]></textFieldExpression>
+			</textField>
+			<line>
+				<reportElement x="0" y="60" width="555" height="1" uuid="053669ee-3b08-4d2a-b2a5-eb9af41332e3"/>
+			</line>
+			<staticText>
+				<reportElement x="0" y="0" width="80" height="15" uuid="36794293-5cab-48ce-b614-ec00019afd9a"/>
+				<textElement>
+					<font size="9"/>
+				</textElement>
+				<text><![CDATA[Total itens:]]></text>
+			</staticText>
+			<textField pattern="#,##0.00">
+				<reportElement x="485" y="0" width="70" height="15" uuid="f6b0965a-7a62-48a9-b354-0371a15f38a3"/>
+				<textElement textAlignment="Center">
+					<font size="9"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$V{total}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="0" y="14" width="80" height="15" uuid="af46b190-f56e-4198-9d2f-0ee3bbceb6bd"/>
+				<textElement>
+					<font size="9"/>
+				</textElement>
+				<text><![CDATA[Valor credito:]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="29" width="555" height="1" uuid="c2f233c5-f7f1-4b9a-96be-66e2b3a40a21"/>
+			</line>
+			<textField pattern="#,##0.00">
+				<reportElement x="485" y="14" width="70" height="15" uuid="de73f4aa-83c2-4656-8574-3d01877f9a9f"/>
+				<textElement textAlignment="Center">
+					<font size="9"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{credito} == null ? new Double(0.0) : $P{credito}]]></textFieldExpression>
+			</textField>
+		</band>
+	</lastPageFooter>
+	<summary>
+		<band/>
+	</summary>
+</jasperReport>

@@ -1,0 +1,36 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+06/11/2025
+
+Odonto Excellence
+
+Produto              Valor Unit.
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+Contencao 3x3 Superior    85,00               
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+
+Paciente: 
+10943688 - Luis Gustavo
+5732583 - Isabela Santos
+2501461 - Lenanim Michel Leal
+4732192 - Hudson Silva
+4333275 - Rodrigo Siqueira
+4378328 - Michel Rodrigo
+
+Total: 1.495,00
+
+
+
+

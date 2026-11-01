@@ -1,0 +1,31 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+13/02/2017
+
+Prefira Odontologia - Stephanie
+
+Produto              Valor Unit.
+Disjuntor de Hyrax        105,00              
+Disjuntor de Hyrax        105,00              
+Contencao continua        72,00               
+Contencao higienica       12,00               
+Contencao continua        72,00               
+Contencao higienica       12,00               
+Contencao continua        72,00               
+Contencao higienica       12,00               
+Placa de levante de mord. 88,20               
+Paciente:
+Eduardo 1182
+Ana Clara 1183
+Thiago 1181
+Leandro 1185
+Vitoria 1187
+Vicotr 1186
+
+Total: 550,20
+
+
+
+

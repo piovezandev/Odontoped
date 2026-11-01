@@ -1,0 +1,34 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+28/03/2018
+
+Liliane E. Pellegrine
+
+Produto              Valor Unit.
+Bionator                  170,00              
+Reforco de fio            10,00               
+Contencao Continua Super. 85,00               
+Bionator                  170,00              
+Reforco de fio            10,00               
+Planas CI                 190,00              
+Expansor Superior Bilate. 96,00               
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Paciente:
+434 - Enzo
+442 - Eduardo
+432 - Beatriz
+435 - Isadora
+441 - Giovana
+436 - Mariane
+439 - Brisa
+440 - Denise
+
+Total: 791,00
+
+
+
+

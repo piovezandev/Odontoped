@@ -1,0 +1,25 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+14/06/2017
+
+Dra. Cinthia M. Campos Semensatto COE
+
+Produto              Valor Unit.
+Contencao Simples         82,00               
+Contencao Simples         82,00               
+Contencao Simples         82,00               
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Paciente:
+Monica 994
+Thais 995
+Marcelo 993
+
+Total: 306,00
+
+
+
+

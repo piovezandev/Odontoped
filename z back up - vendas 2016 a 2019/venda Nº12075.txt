@@ -1,0 +1,23 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+21/10/2019
+
+Monica Cecchi de Oliveira 
+
+Produto              Valor Unit.
+Conserto A                30,00               
+Conserto A                30,00               
+Conserto A                30,00               
+
+Paciente: 
+467 - Melo
+466 - Vitoria
+465 - Pedro
+
+Total: 90,00
+
+
+
+

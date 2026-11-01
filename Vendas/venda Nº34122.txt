@@ -1,0 +1,27 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+27/11/2025
+
+Modelo Odonto - Jamile
+
+Produto              Valor Unit.
+Conserto A                49,00               
+Contencao Continua        165,00              
+Contencao 3x3 Inferior    70,00               
+Contencao Continua        165,00              
+Contencao 3x3 Superior    85,00               
+Contencao 3x3 Inferior    70,00               
+Caixinha personalizada    30,00               
+
+Paciente: 
+123 - Joao Vitor
+761 - Izadora Lima
+762 - Bianca Vieira
+
+Total: 634,00
+
+
+
+

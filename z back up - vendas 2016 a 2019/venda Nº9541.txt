@@ -1,0 +1,28 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+27/03/2019
+
+Paula Dias Rodrigues 
+
+Produto              Valor Unit.
+Contencao com Plato       95,00               
+Contencao Continua        88,00               
+Contencao Continua        88,00               
+Contencao Continua        88,00               
+Contencao Continua        88,00               
+Contencao Continua        88,00               
+Paciente:
+1276 - Manuela
+1270 - Pedro
+1280 - Cicera
+1282 - Tatiany
+1278 - Nathalia
+1274 - Larissa
+
+Total: 535,00
+
+
+
+

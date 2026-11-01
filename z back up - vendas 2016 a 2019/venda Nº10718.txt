@@ -1,0 +1,24 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+16/07/2019
+
+Nicole Goncalves Lima
+
+Produto              Valor Unit.
+Conserto A                30,00               
+Expansor Bilateral        100,00              
+Mola                      11,00               
+Mola                      11,00               
+Expansor Encapsulado      116,00              
+Paciente:
+046 - Frederico
+673 - Matheus
+672 - Isabela
+
+Total: 268,00
+
+
+
+

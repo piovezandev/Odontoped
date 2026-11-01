@@ -1,0 +1,29 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+29/01/2026
+
+Leticia Vargas - Sao Jose
+
+Produto              Valor Unit.
+Contencao Simples         154,00              
+Expansor Encapsulado      195,00              
+Disjuntor de Gabriela     230,00              
+Expansor Encapsulado      195,00              
+Expansor Encapsulado      195,00              
+Contencao Simples         154,00              
+
+Paciente: 
+779 - Caique
+781 - Valentina Messias
+782 - Matteo
+784 - Valenthina Nolli
+785 - Matheus
+786 - Ana Claudia
+
+Total: 1.123,00
+
+
+
+

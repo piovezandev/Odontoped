@@ -1,0 +1,30 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+16/10/2019
+
+Danieli Fernanda Xavier Tavares
+
+Produto              Valor Unit.
+Base de Prova             40,00               
+Base Prova FLex           40,00               
+Montagem PT               75,00               
+Placa dente Biolux        20,00               
+Placa dente Biolux        20,00               
+Montagem PT               75,00               
+Montagem PPR              60,00               
+Placa dente Biolux        20,00               
+Placa dente Biolux        20,00               
+Placa dente Biolux        20,00               
+
+Paciente: 
+710 - Edna
+713 - Elisabet
+712 - Osvaldo
+
+Total: 390,00
+
+
+
+

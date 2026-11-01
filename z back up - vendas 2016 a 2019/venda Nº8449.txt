@@ -1,0 +1,27 @@
+    				 Laboratrio OrtoQuenn
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+30/10/2018
+
+Debora C. de M. Magalhaes
+
+Produto              Valor Unit.
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Contencao Higienica       20,00               
+Contencao Continua Super. 85,00               
+Paciente:
+408 - Fabio
+406 - Maria Jose
+404 - Leidy
+405 - Viviane
+407 - Micaelen
+
+Total: 185,00
+
+
+
+

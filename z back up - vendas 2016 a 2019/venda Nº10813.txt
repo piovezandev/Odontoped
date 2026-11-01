@@ -1,0 +1,34 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+22/07/2019
+
+Jaciara Teixeira Guimaraes
+
+Produto              Valor Unit.
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Higienica       25,00               
+Contencao Higienica       25,00               
+Contencao Higienica       25,00               
+Contencao Higienica       25,00               
+Contencao Higienica       25,00               
+Paciente:
+525- Claudi 
+524- Josiane 
+526- Lucas
+513- M Aracelia 
+20- Edio 
+
+Total: 577,00
+
+
+
+

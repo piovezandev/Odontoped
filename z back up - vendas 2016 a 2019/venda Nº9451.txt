@@ -1,0 +1,30 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+18/03/2019
+
+Tereza Beatriz F. Medeiros 
+
+Produto              Valor Unit.
+Expansor Bilateral        100,00              
+Contencao reta 3x3        23,00               
+Contencao reta 3x3        23,00               
+Contencao reta 3x3        23,00               
+Contencao reta 3x3        23,00               
+Contencao reta 3x3        23,00               
+Contencao reta 3x3        23,00               
+Paciente:
+486 - Livia
+063 - Marcelino
+059 - Elissandro
+062 - Larissa
+060 - Gisele
+064 - Jean Carlos
+061 - Laila
+
+Total: 238,00
+
+
+
+

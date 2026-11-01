@@ -1,0 +1,25 @@
+    				 Laboratrio OrtoQueen
+FONE: (11) 4523-1095
+atendimento@laboratorioortoqueen.com.br
+
+24/05/2019
+
+Fernando Romano - CEO
+
+Produto              Valor Unit.
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Contencao Continua        88,00               
+Contencao Higienica       25,00               
+Paciente:
+321 - Priscila
+322 - Bruno
+320 - Milena
+
+Total: 339,00
+
+
+
+
